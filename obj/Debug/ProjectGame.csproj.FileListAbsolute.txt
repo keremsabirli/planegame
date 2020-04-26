@@ -1,0 +1,9 @@
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\bin\Debug\ProjectGame.exe.config
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\bin\Debug\ProjectGame.exe
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\bin\Debug\ProjectGame.pdb
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\obj\Debug\ProjectGame.csprojResolveAssemblyReference.cache
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\obj\Debug\ProjectGame.Properties.Resources.resources
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\obj\Debug\ProjectGame.csproj.GenerateResource.Cache
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\obj\Debug\ProjectGame.exe
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\obj\Debug\ProjectGame.pdb
+C:\Users\Kerem\documents\visual studio 2017\Projects\ProjectGame\ProjectGame\obj\Debug\ProjectGame.AnaPencere.resources
